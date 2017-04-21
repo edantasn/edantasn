@@ -10,7 +10,7 @@
         <br><br>
         <h1 class="header center green-text text-darken-3">Vamos trabalhar juntos?</h1>
         <div class="row center">
-          <h5 class="header col s12 light">Desenvolvimento de sistemas com foco em seu público alvo</h5>
+          <h5 class="header col s12 light">Desenvolvimento de sistemas com foco em seu público alvo!</h5>
         </div>
         <div class="row center">
           <a href="#contato" id="download-button" class="btn-large waves-effect waves-light green modal-trigger">Fale comigo!</a>
@@ -26,7 +26,7 @@
         <h4 class="green-text text-darken-3 valign-wrapper"><i class="medium material-icons">phone</i>  <a href="tel:7388018557">(73) 8801-8557</a></h4>
       </div>
       <div class="modal-footer">
-        <a href="#!" class=" modal-action modal-close waves-effect waves-green btn-flat">Fechar</a>
+        <a href="#" class=" modal-action modal-close waves-effect waves-green btn-flat">Fechar</a>
       </div>
     </div>
 
@@ -40,7 +40,7 @@
               <h2 class="center red-text text-darken-3"><i class="material-icons">work</i></h2>
               <h5 class="center">Profissionalismo</h5>
 
-              <p class="light">Seguindo as melhores práticas de desenvolvimento e utilizando ferramentas adaptativas a cada projeto, o foco sempre fica na experiência de uso do seu cliente.</p>
+              <p class="light">Seguindo as melhores práticas de desenvolvimento de acordo com o ógão mundial responsável, o W3C, e utilização de ferramentas adaptativas a cada projeto, o foco sempre fica na experiência de uso do seu cliente.</p>
             </div>
           </div>
 
@@ -49,7 +49,7 @@
               <h2 class="center red-text text-darken-3"><i class="material-icons">perm_device_information</i></h2>
               <h5 class="center">Homogeneidade</h5>
 
-              <p class="light">Adaptação aos mais diversos dispositivos e telas existentes, proporcionando a quem acessa, a melhor experiência possível. Os códigos são escritos de modo que, qualquer que seja a deficiência dos usuários, o acesso, o uso e a navegabilidade são mantidos, sem impacto ou obstrução de conteúdos.</p>
+              <p class="light">Adaptação aos mais diversos dispositivos e telas existentes, proporcionando a quem acessa, a melhor experiência possível. Os códigos são escritos de modo que, qualquer que seja a deficiência dos usuários, o acesso, o uso e a navegabilidade são mantidos, sem impacto negativo ou obstrução de conteúdos.</p>
             </div>
           </div>
         </div>
