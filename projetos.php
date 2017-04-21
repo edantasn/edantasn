@@ -15,10 +15,11 @@
             <div class="col s12 m6 l4">
                 <div class="card sticky-action">
                     <div class="card-image waves-effect waves-block waves-light">
-                        <img class="activator" src="img/projetos/uni.jpg">
+                        <img class="activator" src="img/projetos/thumb/uni.jpg">
                     </div>
                     <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">Uniodonto Ilhéus<i class="material-icons right">more_vert</i></span>
+                        <span class="card-title activator grey-text text-darken-4">
+                            Uniodonto Ilhéus<i class="material-icons right">more_vert</i></span>
                         <p>
                             Clique sobre a imagem para mais informações.
                             <a title="Ver Site" href="http://www.uniodontoilheus.com.br/" target="_blank">Visitar o site <i class="tiny material-icons">open_in_new</i></a></p>
@@ -50,7 +51,7 @@
             <div class="col s12 m6 l4">
                 <div class="card sticky-action">
                     <div class="card-image waves-effect waves-block waves-light">
-                        <img class="activator" src="img/projetos/ace.jpg">
+                        <img class="activator" src="img/projetos/thumb/ace.jpg">
                     </div>
                     <div class="card-content">
                         <span class="card-title activator grey-text text-darken-4">ACE Idiomas<i class="material-icons right">more_vert</i></span>
@@ -85,7 +86,7 @@
             <div class="col s12 m6 l4">
                 <div class="card sticky-action">
                     <div class="card-image waves-effect waves-block waves-light">
-                        <img class="activator" src="img/projetos/kms.jpg">
+                        <img class="activator" src="img/projetos/thumb/kms.jpg">
                     </div>
                     <div class="card-content">
                         <span class="card-title activator grey-text text-darken-4">Agência KMS<i class="material-icons right">more_vert</i></span>
@@ -120,7 +121,7 @@
             <div class="col s12 m6 l4">
                 <div class="card sticky-action">
                     <div class="card-image waves-effect waves-block waves-light">
-                        <img class="activator" src="img/projetos/opt.jpg">
+                        <img class="activator" src="img/projetos/thumb/opt.jpg">
                     </div>
                     <div class="card-content">
                         <span class="card-title activator grey-text text-darken-4">Optimus Engenharia<i class="material-icons right">more_vert</i></span>
@@ -156,7 +157,7 @@
             <div class="col s12 m6 l4">
                 <div class="card sticky-action">
                     <div class="card-image waves-effect waves-block waves-light">
-                        <img class="activator" src="img/projetos/bf.jpg">
+                        <img class="activator" src="img/projetos/thumb/bf.jpg">
                     </div>
                     <div class="card-content">
                         <span class="card-title activator grey-text text-darken-4">Bahia Flex<i class="material-icons right">more_vert</i></span>
@@ -191,7 +192,7 @@
             <div class="col s12 m6 l4">
                 <div class="card sticky-action">
                     <div class="card-image waves-effect waves-block waves-light">
-                        <img class="activator" src="img/projetos/ac.jpg">
+                        <img class="activator" src="img/projetos/thumb/ac.jpg">
                     </div>
                     <div class="card-content">
                         <span class="card-title activator grey-text text-darken-4">Amor Corajoso<i class="material-icons right">more_vert</i></span>
@@ -229,7 +230,7 @@
             <div class="col s12 m6 l4">
                 <div class="card sticky-action">
                     <div class="card-image waves-effect waves-block waves-light">
-                        <img class="activator" src="img/projetos/itf.jpg">
+                        <img class="activator" src="img/projetos/thumb/itf.jpg">
                     </div>
                     <div class="card-content">
                         <span class="card-title activator grey-text text-darken-4">Itafest<i class="material-icons right">more_vert</i></span>

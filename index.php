@@ -13,7 +13,8 @@
           <h5 class="header col s12 light">Desenvolvimento de sistemas com foco em seu público alvo!</h5>
         </div>
         <div class="row center">
-          <a href="#contato" id="download-button" class="btn-large waves-effect waves-light green modal-trigger">Fale comigo!</a>
+          <a href="projetos" class="btn-large waves-effect waves-light green">Meus Projetos</a>
+          <a href="#contato" id="download-button" class="btn-large waves-effect waves-light green modal-trigger">Fale comigo</a>
         </div>
       </div>
     </div>
