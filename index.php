@@ -22,8 +22,8 @@
       <div class="modal-content">
         <h4 class="header green-text text-darken-3">Contato</h4><br>
         <h4 class="green-text text-darken-3 valign-wrapper"><i class="medium material-icons">email</i>  <a href="mailto:edantasn@gmail.com">edantasn@gmail.com</a></h3>
-        <h4 class="green-text text-darken-3 valign-wrapper"><i class="medium material-icons">phone</i>  <a href="tel:7391428924">(73) 9142-8924</a></h4>
-        <h4 class="green-text text-darken-3 valign-wrapper"><i class="medium material-icons">phone</i>  <a href="tel:7388018557">(73) 8801-8557</a></h4>
+        <h4 class="green-text text-darken-3 valign-wrapper"><i class="medium material-icons">phone</i>  <a href="tel:73991428924">(73) 9.9142-8924</a></h4>
+        <h4 class="green-text text-darken-3 valign-wrapper"><i class="medium material-icons">phone</i>  <a href="tel:73988018557">(73) 9.8801-8557</a></h4>
       </div>
       <div class="modal-footer">
         <a href="#" class=" modal-action modal-close waves-effect waves-green btn-flat">Fechar</a>
