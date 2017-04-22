@@ -17,7 +17,7 @@
           <p class="flow-text">Apaixonado por inovação e sempre procurando conhecer as novidades no que se refere a Tecnologia da Informação, a acessibilidade é um dos pilares que o mantém nesta área.
           Em prol da experiência do usuário e da democracia digital, procura escrever códigos seguindo padrões recomendados pela comunidade reconhecida.</p>
           <p class="flow-text">
-            Ministrou o minicurso de HTML5 na <a href="http://sinform.uesc.br/" class="def tooltipped" data-position="botom" data-delay="50" data-tooltip="Visitar SINFORM" target="_blank">XIII Semana de Informática da UESC - SINFORM<i class="small material-icons">open_in_new</i></a> e é capacitador
+            Ministrou o curso de HTML5 na <a href="http://sinform.uesc.br/" class="def tooltipped" data-position="botom" data-delay="50" data-tooltip="Visitar SINFORM" target="_blank">XIII Semana de Informática da UESC - SINFORM<i class="small material-icons">open_in_new</i></a> e é capacitador
             em desenvolvimento WEB na <a href="http://tecnojr.com.br" class="def tooltipped" data-position="botom" data-delay="50" data-tooltip="Visitar TecnoJr" target="_blank">Empresa Júnior de Computação da UESC - TecnoJr<i class="small material-icons">open_in_new</i></a>.
           </p>
         </article>

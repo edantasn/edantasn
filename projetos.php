@@ -22,7 +22,7 @@
                             Uniodonto Ilhéus<i class="material-icons right">more_vert</i></span>
                         <p>
                             Clique sobre a imagem para mais informações.
-                            <a title="Ver Site" href="http://www.uniodontoilheus.com.br/" target="_blank">Visitar o site <i class="tiny material-icons">open_in_new</i></a></p>
+                            <a title="Ver Site" href="http://www.uniodontoilheus.com.br/" target="_blank">Visitar site <i class="tiny material-icons">open_in_new</i></a></p>
                     </div>
                     <div class="card-reveal">
                         <span class="card-title grey-text text-darken-4">Uniodonto Ilhéus<i class="material-icons right">close</i></span>
@@ -57,7 +57,7 @@
                         <span class="card-title activator grey-text text-darken-4">ACE Idiomas<i class="material-icons right">more_vert</i></span>
                         <p>
                             Clique sobre a imagem para mais informações.
-                            <a title="Ver Site" href="http://www.aceonline.com.br/contato" target="_blank">Visitar o site <i class="tiny material-icons">open_in_new</i></a></p>
+                            <a title="Ver Site" href="http://www.aceonline.com.br/contato" target="_blank">Visitar site <i class="tiny material-icons">open_in_new</i></a></p>
                     </div>
                     <div class="card-reveal">
                         <span class="card-title grey-text text-darken-4">ACE Idiomas<i class="material-icons right">close</i></span>
@@ -74,7 +74,7 @@
                                 <p>Eduardo Dantas</p>
                             </li>
                             <li class="collection-item avatar">
-                                <i class="material-icons circle green">web</i>
+                                <i class="material-icons circle green">toc</i>
                                 <span class="title">Back-End</span>
                                 <p>Eduardo Dantas</p>
                             </li>
@@ -92,7 +92,7 @@
                         <span class="card-title activator grey-text text-darken-4">Agência KMS<i class="material-icons right">more_vert</i></span>
                         <p>
                             Clique sobre a imagem para mais informações.
-                        <a title="Ver Site" href="http://www.agenciakms.com.br/" target="_blank">Visitar o site <i class="tiny material-icons">open_in_new</i></a></p>
+                        <a title="Ver Site" href="http://www.agenciakms.com.br/" target="_blank">Visitar site <i class="tiny material-icons">open_in_new</i></a></p>
                     </div>
                     <div class="card-reveal">
                         <span class="card-title grey-text text-darken-4">Agência KMS<i class="material-icons right">close</i></span>
@@ -127,7 +127,7 @@
                         <span class="card-title activator grey-text text-darken-4">Optimus Engenharia<i class="material-icons right">more_vert</i></span>
                         <p>
                             Clique sobre a imagem para mais informações.
-                            <a title="Ver Site" href="http://www.optimusejr.com.br/" target="_blank">Visitar o site <i class="tiny material-icons">open_in_new</i></a></p>
+                            <a title="Ver Site" href="http://www.optimusejr.com.br/" target="_blank">Visitar site <i class="tiny material-icons">open_in_new</i></a></p>
                     </div>
                     <div class="card-reveal">
                         <span class="card-title grey-text text-darken-4">Optimus Engenharia<i class="material-icons right">close</i></span>
@@ -163,7 +163,7 @@
                         <span class="card-title activator grey-text text-darken-4">Bahia Flex<i class="material-icons right">more_vert</i></span>
                         <p>
                             Clique sobre a imagem para mais informações.
-                            <a title="Ver Site" href="http://www.bahiaflexetiquetas.com.br/" target="_blank">Visitar o site <i class="tiny material-icons">open_in_new</i></a></p>
+                            <a title="Ver Site" href="http://www.bahiaflexetiquetas.com.br/" target="_blank">Visitar site <i class="tiny material-icons">open_in_new</i></a></p>
                     </div>
                     <div class="card-reveal">
                         <span class="card-title grey-text text-darken-4">Bahia Flex<i class="material-icons right">close</i></span>
@@ -198,7 +198,7 @@
                         <span class="card-title activator grey-text text-darken-4">Amor Corajoso<i class="material-icons right">more_vert</i></span>
                         <p>
                             Clique sobre a imagem para mais informações.
-                        <a title="Ver Site" href="http://www.amorcorajoso.com.br/" target="_blank">Visitar o site <i class="tiny material-icons">open_in_new</i></a></p>
+                        <a title="Ver Site" href="http://www.amorcorajoso.com.br/" target="_blank">Visitar site <i class="tiny material-icons">open_in_new</i></a></p>
                     </div>
                     <div class="card-reveal">
                         <span class="card-title grey-text text-darken-4">Amor Corajoso<i class="material-icons right">close</i></span>
@@ -236,7 +236,7 @@
                         <span class="card-title activator grey-text text-darken-4">Itafest<i class="material-icons right">more_vert</i></span>
                         <p>
                             Clique sobre a imagem para mais informações.
-                        <a title="Ver Site" href="http://www.itafest.com.br/" target="_blank">Visitar o site <i class="tiny material-icons">open_in_new</i></a></p>
+                        <a title="Ver Site" href="http://www.itafest.com.br/" target="_blank">Visitar site <i class="tiny material-icons">open_in_new</i></a></p>
                     </div>
                     <div class="card-reveal">
                         <span class="card-title grey-text text-darken-4">Itafest<i class="material-icons right">close</i></span>
@@ -253,7 +253,76 @@
                                 <p>Eduardo Dantas</p>
                             </li>
                             <li class="collection-item avatar">
+                                <i class="material-icons circle green">toc</i>
+                                <span class="title">Back-End</span>
+                                <p>Eduardo Dantas</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col s12 m6 l4">
+                <div class="card sticky-action">
+                    <div class="card-image waves-effect waves-block waves-light">
+                        <img class="activator" src="img/projetos/thumb/sig.jpg">
+                    </div>
+                    <div class="card-content">
+                        <span class="card-title activator grey-text text-darken-4">SIGPER<i class="material-icons right">more_vert</i></span>
+                        <p>
+                            Clique sobre a imagem para mais informações.
+                            <a title="Ver Site" href="http://www.edantasn.ml/pj/sigper" target="_blank">Visitar site <i class="tiny material-icons">open_in_new</i></a></p>
+                    </div>
+                    <div class="card-reveal">
+                        <span class="card-title grey-text text-darken-4">SIGPER<i class="material-icons right">close</i></span>
+                        <p>O SIGPER é um Sistema de Gerenciamento de Pessoas e Recursos destinado a Empresas Juniores.</p>
+                        <ul class="collection">
+                            <li class="collection-item avatar">
+                                <i class="material-icons circle green">perm_media</i>
+                                <span class="title">Designer</span>
+                                <p>Prabhát e Eduardo</p>
+                            </li>
+                            <li class="collection-item avatar">
                                 <i class="material-icons circle green">web</i>
+                                <span class="title">Front-End</span>
+                                <p>Eduardo Dantas</p>
+                            </li>
+                            <li class="collection-item avatar">
+                                <i class="material-icons circle green">toc</i>
+                                <span class="title">Back-End</span>
+                                <p>Eduardo Dantas</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col s12 m6 l4">
+                <div class="card sticky-action">
+                    <div class="card-image waves-effect waves-block waves-light">
+                        <img class="activator" src="img/projetos/thumb/dent.jpg">
+                    </div>
+                    <div class="card-content">
+                        <span class="card-title activator grey-text text-darken-4">DentalOn<i class="material-icons right">more_vert</i></span>
+                        <p>
+                            Clique sobre a imagem para mais informações.
+                    </div>
+                    <div class="card-reveal">
+                        <span class="card-title grey-text text-darken-4">DentalOn<i class="material-icons right">close</i></span>
+                        <p>O DentalOn é um sistema desktop para marcação de consultas odontológicas e gerenciamento de consultórios.</p>
+                        <ul class="collection">
+                            <li class="collection-item avatar">
+                                <i class="material-icons circle green">perm_media</i>
+                                <span class="title">Designer</span>
+                                <p>Eduardo Dantas</p>
+                            </li>
+                            <li class="collection-item avatar">
+                                <i class="material-icons circle green">web</i>
+                                <span class="title">Front-End</span>
+                                <p>Eduardo Dantas</p>
+                            </li>
+                            <li class="collection-item avatar">
+                                <i class="material-icons circle green">toc</i>
                                 <span class="title">Back-End</span>
                                 <p>Eduardo Dantas</p>
                             </li>

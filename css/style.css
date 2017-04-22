@@ -37,19 +37,22 @@ a.def:hover,
   -ms-transition: all .2s ease-in;
   transition: all .2s ease-in;
 }
+p { text-align: justify; }
 
-.icon-block {
-  padding: 0 15px;
+@media (max-width: 500px) {
+    #contato,
+    #contato a {
+        font-size: .5em !important;
+    }
 }
-.icon-block .material-icons {
-	font-size: inherit;
-}
+.icon-block { padding: 0 15px; }
+.icon-block .material-icons { font-size: inherit; }
 
 .profile img {
   padding: 10px;
   width: 150px;
 }
 
-.footer-copyright a {
-  color: #fff;
-}
+.footer-copyright a { color: #fff; }
+
+

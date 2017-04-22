@@ -10,7 +10,7 @@
         <br><br>
         <h1 class="header center green-text text-darken-3">Vamos trabalhar juntos?</h1>
         <div class="row center">
-          <h5 class="header col s12 light">Desenvolvimento de sistemas com foco em seu público alvo!</h5>
+          <h5 class="header col s12 light">Desenvolvimento de sistemas com foco em acessibilidade!</h5>
         </div>
         <div class="row center">
           <a href="projetos" class="btn-large waves-effect waves-light green">Meus Projetos</a>
