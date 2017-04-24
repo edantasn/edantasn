@@ -12,7 +12,7 @@
 
         <div class="row">
 
-            <div class="col s12 m6 l4">
+            <div class="col s12 m6 l4 bloc">
                 <div class="card sticky-action">
                     <div class="card-image waves-effect waves-block waves-light">
                         <img class="activator" src="img/projetos/thumb/uni.jpg">
@@ -208,19 +208,16 @@
                                 <i class="material-icons circle green">perm_media</i>
                                 <span class="title">Designer</span>
                                 <p>Philipe Farias</p>
-<!--                                <a target="_blank" title="Visitar Perfil" href="https://fb.com/fariasphil" class="secondary-content"><i class="material-icons">person_pin</i></a>-->
                             </li>
                             <li class="collection-item avatar">
                                 <i class="material-icons circle green">web</i>
                                 <span class="title">Front-End</span>
                                 <p>Eduardo Dantas</p>
-<!--                                <a target="_blank" title="Visitar Perfil" href="https://fb.com/edantasn" class="secondary-content"><i class="material-icons">person_pin</i></a>-->
                             </li>
                             <li class="collection-item avatar">
                                 <i class="material-icons circle green">toc</i>
                                 <span class="title">Back-End</span>
                                 <p>Hyago Ottoni</p>
-<!--                                <a target="_blank" title="Visitar Perfil" href="https://fb.com/HyagoSantanaOttoni" class="secondary-content"><i class="material-icons">person_pin</i></a>-->
                             </li>
                         </ul>
                     </div>
