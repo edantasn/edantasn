@@ -56,10 +56,11 @@ p { text-align: justify; }
 .footer-copyright a { color: #fff; }
 
 /* PROJETOS */
-.card-image {
-    margin: 0 auto;
-    max-width: 300px;
+.card-image { margin: 0 auto; }
+.activator {
+    height: 280px;
 }
+.card-image img { height: 280px; }
 @media (min-width: 900px) and (max-width: 1150px){
     .card .card-title {
         font-size: 1.3em;

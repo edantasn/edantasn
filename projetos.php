@@ -297,6 +297,40 @@
             <div class="col s12 m6 l4">
                 <div class="card sticky-action">
                     <div class="card-image waves-effect waves-block waves-light">
+                        <img class="activator" src="img/projetos/thumb/tec.jpg">
+                    </div>
+                    <div class="card-content">
+                        <span class="card-title activator grey-text text-darken-4">TecnoDarma<i class="material-icons right">more_vert</i></span>
+                        <p>
+                            Clique sobre a imagem para mais informações.
+                    </div>
+                    <div class="card-reveal">
+                        <span class="card-title grey-text text-darken-4">TecnoDarma<i class="material-icons right">close</i></span>
+                        <p>O TecnoDarma é um sistema de gerenciamento e emissão de projetos.</p>
+                        <ul class="collection">
+                            <li class="collection-item avatar">
+                                <i class="material-icons circle green">perm_media</i>
+                                <span class="title">Designer</span>
+                                <p>Philipe Farias</p>
+                            </li>
+                            <li class="collection-item avatar">
+                                <i class="material-icons circle green">web</i>
+                                <span class="title">Front-End</span>
+                                <p>Eduardo Dantas</p>
+                            </li>
+                            <li class="collection-item avatar">
+                                <i class="material-icons circle green">toc</i>
+                                <span class="title">Back-End</span>
+                                <p>Eduardo Dantas</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col s12 m6 l4">
+                <div class="card sticky-action">
+                    <div class="card-image waves-effect waves-block waves-light">
                         <img class="activator" src="img/projetos/thumb/dent.jpg">
                     </div>
                     <div class="card-content">
