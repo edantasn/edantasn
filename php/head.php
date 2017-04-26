@@ -8,10 +8,10 @@
 <meta name="copyright" content="© 2017 - Eduardo Dantas">
 <meta name="author" content="For Desenvolvimento de Sistemas | www.fordesenv.com.br | www.facebook.com/fordesenv | @edantasn">
 <meta name="keywords" content="For, Fordesenv, For Desenvolvimento, Eduardo, Eduardo Dantas, edantasn, @edantasn">
-<meta name="description" content="Desenvolvimento de Sistemas WEB | @edantasn">
+<meta name="description" content="Desenvolvimento de Sites e Sistemas WEB">
 <!-- Estilo -->
 <link href="css/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection">
-<link href="css/edantasn.css?v=2" type="text/css" rel="stylesheet" media="screen,projection">
+<link href="css/edantasn.css?v=4" type="text/css" rel="stylesheet" media="screen,projection">
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
