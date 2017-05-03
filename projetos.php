@@ -57,7 +57,7 @@
                         <span class="card-title activator grey-text text-darken-4">ACE Idiomas<i class="material-icons right">more_vert</i></span>
                         <p>
                             Clique sobre a imagem para mais informações.
-                            <a title="Ver Site" href="http://www.aceonline.com.br/contato" target="_blank">Visitar site <i class="tiny material-icons">open_in_new</i></a></p>
+                            <a title="Ver Site" href="http://www.aceonline.com.br/" target="_blank">Visitar site <i class="tiny material-icons">open_in_new</i></a></p>
                     </div>
                     <div class="card-reveal">
                         <span class="card-title grey-text text-darken-4">ACE Idiomas<i class="material-icons right">close</i></span>
