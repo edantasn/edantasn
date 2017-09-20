@@ -11,7 +11,7 @@
 <meta name="description" content="Desenvolvimento de Sites e Sistemas WEB">
 <!-- Estilo -->
 <link href="css/materialize.min.css" type="text/css" rel="stylesheet" media="screen,projection">
-<link href="css/edantasn.css?v=4" type="text/css" rel="stylesheet" media="screen,projection">
+<link href="css/edantasn.css?v=5" type="text/css" rel="stylesheet" media="screen,projection">
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>

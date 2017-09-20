@@ -31,9 +31,9 @@ a.def:hover,
 #contato a { color: rgba(0,0,0,0.87); }
 a.def:hover,
 #contato a:hover,
-.footer-copyright {
-    height: auto;
-    text-align: center !important;
+.footer-copyright { height: auto; }
+.footer-copyright .col:last-child {
+    text-align: right !important;
 }
 .footer-copyright a:hover {
   -webkit-transition: all .2s ease-in;

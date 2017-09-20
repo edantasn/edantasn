@@ -1,5 +1,5 @@
 <nav class="red  darken-3" role="navigation">
-    <div class="nav-wrapper container"><a id="logo-container" href="../" class="brand-logo">@edantasn</a>
+    <div class="nav-wrapper container"><a id="logo-container" href="../" class="brand-logo">Eduardo Dantas</a>
       <ul class="right hide-on-med-and-down">
         <li><a href="../">Home</a></li>
         <li><a href="sobre">Sobre</a></li>
