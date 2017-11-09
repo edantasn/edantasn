@@ -15,42 +15,6 @@
             <div class="col s12 m6 l4 bloc">
                 <div class="card sticky-action">
                     <div class="card-image waves-effect waves-block waves-light">
-                        <img class="activator" src="img/projetos/thumb/prs.jpg">
-                    </div>
-                    <div class="card-content">
-                        <span class="card-title activator grey-text text-darken-4">
-                            Pousada Raio do Sol<i class="material-icons right">more_vert</i></span>
-                        <p>
-                            Clique sobre a imagem para mais informações.
-                            <a title="Ver Site" href="http://www.pousadaraiodosolba.com.br/" target="_blank">Visitar site <i class="tiny material-icons">open_in_new</i></a></p>
-                    </div>
-                    <div class="card-reveal">
-                        <span class="card-title grey-text text-darken-4">Pousada Raio do Sol<i class="material-icons right">close</i></span>
-                        <p>A Pousada Raio do Sol está situada em frente à Baía do Pontal, próximo às mais belas praias do nosso litoral, Centro Histórico, Mercado de Artesanato, Casa de Jorge Amado e fazendas cacaueiras da região.</p>
-                        <ul class="collection">
-                            <li class="collection-item avatar">
-                                <i class="material-icons circle green">perm_media</i>
-                                <span class="title">Designer</span>
-                                <p>Philipe Farias</p>
-                            </li>
-                            <li class="collection-item avatar">
-                                <i class="material-icons circle green">web</i>
-                                <span class="title">Front-End</span>
-                                <p>Eduardo Dantas</p>
-                            </li>
-                            <li class="collection-item avatar">
-                                <i class="material-icons circle green">toc</i>
-                                <span class="title">Back-End</span>
-                                <p>Eduardo Dantas</p>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col s12 m6 l4 bloc">
-                <div class="card sticky-action">
-                    <div class="card-image waves-effect waves-block waves-light">
                         <img class="activator" src="img/projetos/thumb/uni.jpg">
                     </div>
                     <div class="card-content">
@@ -128,7 +92,7 @@
                         <span class="card-title activator grey-text text-darken-4">Agência KMS<i class="material-icons right">more_vert</i></span>
                         <p>
                             Clique sobre a imagem para mais informações.
-                        <a title="Ver Site" href="http://www.agenciakms.com.br/" target="_blank">Visitar site <i class="tiny material-icons">open_in_new</i></a></p>
+                            <a title="Ver Site" href="http://www.agenciakms.com.br/" target="_blank">Visitar site <i class="tiny material-icons">open_in_new</i></a></p>
                     </div>
                     <div class="card-reveal">
                         <span class="card-title grey-text text-darken-4">Agência KMS<i class="material-icons right">close</i></span>
@@ -148,6 +112,78 @@
                                 <i class="material-icons circle green">toc</i>
                                 <span class="title">Back-End</span>
                                 <p>Hyago Ottoni</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col s12 m6 l4 bloc">
+                <div class="card sticky-action">
+                    <div class="card-image waves-effect waves-block waves-light">
+                        <img class="activator" src="img/projetos/thumb/adp.jpg">
+                    </div>
+                    <div class="card-content">
+                        <span class="card-title activator grey-text text-darken-4">
+                            AdPet<i class="material-icons right">more_vert</i></span>
+                        <p>
+                            Clique sobre a imagem para mais informações.
+                            <a title="Ver Site" href="http://www.adpet.com.br/" target="_blank">Visitar site <i class="tiny material-icons">open_in_new</i></a></p>
+                    </div>
+                    <div class="card-reveal">
+                        <span class="card-title grey-text text-darken-4">AdPet - Adoção e Proteção Animal<i class="material-icons right">close</i></span>
+                        <p>Sistema gratuito para gerenciamento de adoção e proteção animal destinado a ONGs e pet lovers.</p>
+                        <ul class="collection">
+                            <li class="collection-item avatar">
+                                <i class="material-icons circle green">perm_media</i>
+                                <span class="title">Designer</span>
+                                <p>Philipe Farias</p>
+                            </li>
+                            <li class="collection-item avatar">
+                                <i class="material-icons circle green">web</i>
+                                <span class="title">Front-End</span>
+                                <p>Eduardo Dantas</p>
+                            </li>
+                            <li class="collection-item avatar">
+                               <i class="material-icons circle green">toc</i>
+                                <span class="title">Back-End</span>
+                                <p>Eduardo Dantas</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col s12 m6 l4 bloc">
+                <div class="card sticky-action">
+                    <div class="card-image waves-effect waves-block waves-light">
+                        <img class="activator" src="img/projetos/thumb/prs.jpg">
+                    </div>
+                    <div class="card-content">
+                        <span class="card-title activator grey-text text-darken-4">
+                            Pousada Raio do Sol<i class="material-icons right">more_vert</i></span>
+                        <p>
+                            Clique sobre a imagem para mais informações.
+                            <a title="Ver Site" href="http://www.pousadaraiodosolba.com.br/" target="_blank">Visitar site <i class="tiny material-icons">open_in_new</i></a></p>
+                    </div>
+                    <div class="card-reveal">
+                        <span class="card-title grey-text text-darken-4">Pousada Raio do Sol<i class="material-icons right">close</i></span>
+                        <p>A Pousada Raio do Sol está situada em frente à Baía do Pontal, próximo às mais belas praias do nosso litoral, Centro Histórico, Mercado de Artesanato, Casa de Jorge Amado e fazendas cacaueiras da região.</p>
+                        <ul class="collection">
+                            <li class="collection-item avatar">
+                                <i class="material-icons circle green">perm_media</i>
+                                <span class="title">Designer</span>
+                                <p>Philipe Farias</p>
+                            </li>
+                            <li class="collection-item avatar">
+                                <i class="material-icons circle green">web</i>
+                                <span class="title">Front-End</span>
+                                <p>Eduardo Dantas</p>
+                            </li>
+                            <li class="collection-item avatar">
+                                <i class="material-icons circle green">toc</i>
+                                <span class="title">Back-End</span>
+                                <p>Eduardo Dantas</p>
                             </li>
                         </ul>
                     </div>
