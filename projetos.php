@@ -334,6 +334,41 @@
             <div class="col s12 m6 l4">
                 <div class="card sticky-action">
                     <div class="card-image waves-effect waves-block waves-light">
+                        <img class="activator" src="img/projetos/thumb/cpb.jpg">
+                    </div>
+                    <div class="card-content">
+                        <span class="card-title activator grey-text text-darken-4">Cooperbom<i class="material-icons right">more_vert</i></span>
+                        <p>
+                            Clique sobre a imagem para mais informações.
+                        <a title="Ver Site" href="http://www.cooperbomturismo.com.br/" target="_blank">Visitar site <i class="tiny material-icons">open_in_new</i></a></p>
+                    </div>
+                    <div class="card-reveal">
+                        <span class="card-title grey-text text-darken-4">Cooperbom Turismo<i class="material-icons right">close</i></span>
+                        <p>A Cooperbom é uma Cooperativa de Turismo e Promoção Social que reverte suas vendas de pacotes turísticos em programas sociais</p>
+                        <ul class="collection">
+                            <li class="collection-item avatar">
+                                <i class="material-icons circle green">perm_media</i>
+                                <span class="title">Designer</span>
+                                <p>Philipe Farias</p>
+                            </li>
+                            <li class="collection-item avatar">
+                                <i class="material-icons circle green">web</i>
+                                <span class="title">Front-End</span>
+                                <p>Eduardo Dantas</p>
+                            </li>
+                            <li class="collection-item avatar">
+                                <i class="material-icons circle green">toc</i>
+                                <span class="title">Back-End</span>
+                                <p>Eduardo Dantas</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col s12 m6 l4">
+                <div class="card sticky-action">
+                    <div class="card-image waves-effect waves-block waves-light">
                         <img class="activator" src="img/projetos/thumb/itf.jpg">
                     </div>
                     <div class="card-content">
