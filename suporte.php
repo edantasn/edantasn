@@ -16,10 +16,10 @@
         </article>
 		<div class="row center">
 		  <div class="col m6 s12">
-			<a href="http://www.uniodontoilheus.com.br/t.exe" title="Baixar TeamViewer"><img src="img/tv.png"></a>
+			<a href="" title="Baixar TeamViewer"><img src="img/tv.png"></a>
 		  </div>
 		  <div class="col m6 s12">
-			<a href="http://www.uniodontoilheus.com.br/s.exe" title="Baixar ShowMyPC"><img src="img/smpc.jpg"></a>
+			<a href="" title="Baixar ShowMyPC"><img src="img/smpc.jpg"></a>
 		  </div>
         </div>
       </div>
